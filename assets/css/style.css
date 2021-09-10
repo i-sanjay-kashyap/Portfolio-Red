@@ -41,14 +41,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top i {
   font-size: 28px;
-  background: #eb0029;
   color: #fff;
   line-height: 0;
 }
 
 .back-to-top:hover {
-  background: #ffffff;
-  color: #eb0029;
+  background: #eb0029;
+  color: #ffffff;
 }
 
 .back-to-top.active {
@@ -90,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Oxygen', sans-serif;
 }
 
-#header .profile h1 a, #header .profile h1 a:hover>a {
+#header .profile h1 a, #header .profile h1 a:hover {
   color: #fff;
   text-decoration: none;
 }
