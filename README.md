@@ -2,4 +2,4 @@
 Color Scheme: Red 
 
 
-https://i-sanjay-kashyap.github.io/portfolio-red/#
+https://i-sanjay-kashyap.github.io/Portfolio-Red/
